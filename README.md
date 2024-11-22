@@ -1,6 +1,10 @@
 # EPICS References
 A list of resources to refer
 
+## Quick Links
+- [Projects](https://github.com/orgs/Epics-IoT-Project-Devs/projects/1/views/1)
+- [Repositories](https://github.com/orgs/Epics-IoT-Project-Devs/repositories)
+
 ## Contribution Guidelines - 
 - Any resources you want others to refer, make sure it is in the appropriate folder (e.g. frontend, backend, iot etc)
 - If the folder doesn't exist for the topic you are providing reference to, create a folder
