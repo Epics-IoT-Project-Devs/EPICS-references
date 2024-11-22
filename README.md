@@ -2,7 +2,7 @@
 A list of resources to refer
 
 ## Quick Links
-- [Projects](https://github.com/orgs/Epics-IoT-Project-Devs/projects/1/views/1)
+- [Tasks and Issues](https://github.com/orgs/Epics-IoT-Project-Devs/projects/1/views/1)
 - [Repositories](https://github.com/orgs/Epics-IoT-Project-Devs/repositories)
 
 ## Contribution Guidelines - 
