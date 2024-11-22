@@ -11,4 +11,5 @@ A list of resources to refer
 The above guidelines are to ensure that the references list remains organized, and make referring to them in the future easy for everyone.
 
 ## Folder Creation Guide
-You may not find an option to create a folder or upload to an existing folder on github directly. In order to do so, simply name your file `folder_name/file_name.txt`.
+- You may not find an option to create a folder or upload to an existing folder on github directly. In order to do so, simply name your file `folder_name/file_name.md`.
+- If possible, upload any text based files in markdown format (`.md`)
